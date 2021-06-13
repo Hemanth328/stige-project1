@@ -45,7 +45,7 @@ body {
     margin: 5px;
 }
 
-.col-md-3 img {
+.card-img-top {
     padding-top: 15px;
     padding-left: 50px;
 }
@@ -122,4 +122,3 @@ body {
 .footer-container img {
     margin-left: 5%;
 }
-
