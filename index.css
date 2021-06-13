@@ -6,16 +6,16 @@
     position: fixed;
     z-index: 99;
 }
+
 body {
     top: 100%;
     margin-left: 0.4%;
     margin-right: 0.4%;
 }
+
 .main-container {
     padding-top: 65px;
 }
-
-
 
 .middle-section {
     background-color: white;
@@ -37,7 +37,6 @@ body {
     font-weight: bold;
     word-spacing: 10px;
     font-style: Areial;
-   
 }
 
 .row {
@@ -45,7 +44,7 @@ body {
     margin: 5px;
 }
 
-.card-img-top {
+.card img {
     padding-top: 15px;
     padding-left: 50px;
 }
@@ -55,7 +54,6 @@ body {
 }
 
 .banner-card {
-    
     padding-top: 50px;
     position: relative;
 }
